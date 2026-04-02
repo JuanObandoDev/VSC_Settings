@@ -23,6 +23,7 @@
   "editor.stickyScroll.enabled": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.smoothScrolling": true,
+  "workbench.colorTheme": "Dark+",
   "chat.instructionsFilesLocations": {
     ".github/instructions": true,
     ".claude/rules": true,
