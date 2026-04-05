@@ -5,7 +5,6 @@
 
   "workbench.sideBar.location": "right",
   "workbench.editor.showTabs": "none",
-  "editor.minimap.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.overviewRulerBorder": false,
   "editor.hideCursorInOverviewRuler": true,
@@ -29,21 +28,23 @@
     ".claude/rules": true,
     "~/.copilot/instructions": true,
     "~/.claude/rules": true,
-
-    // Windows (AppData)
     "~/AppData/Local/Temp/postman-collections-post-response.instructions.md": true,
     "~/AppData/Local/Temp/postman-collections-pre-request.instructions.md": true,
     "~/AppData/Local/Temp/postman-folder-post-response.instructions.md": true,
     "~/AppData/Local/Temp/postman-folder-pre-request.instructions.md": true,
     "~/AppData/Local/Temp/postman-http-request-post-response.instructions.md": true,
     "~/AppData/Local/Temp/postman-http-request-pre-request.instructions.md": true,
-
-    // macOS (tmp)
     "~/tmp/postman-collections-post-response.instructions.md": true,
     "~/tmp/postman-collections-pre-request.instructions.md": true,
     "~/tmp/postman-folder-post-response.instructions.md": true,
     "~/tmp/postman-folder-pre-request.instructions.md": true,
     "~/tmp/postman-http-request-post-response.instructions.md": true,
     "~/tmp/postman-http-request-pre-request.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+    "C:\\Users\\RYZEN7~1\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true,
   },
 }
